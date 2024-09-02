@@ -1,7 +1,4 @@
 # BankAccount Application using OOPS - in-Java
-
-# BankAccount-in-Java
-
 This Java-based console application simulates basic banking operations such as creating an account, displaying account details, withdrawing, and depositing money. It also provides a search function to find a specific account by its account number.
 
 ## Features
